@@ -1,0 +1,27 @@
+.courses {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .courses h2 {
+    font-size: 2em;
+  }
+  
+  .courses input {
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .courses ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .courses li {
+    background: white;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
