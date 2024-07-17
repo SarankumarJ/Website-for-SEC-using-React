@@ -1,8 +1,13 @@
 .home {
     text-align: center;
     margin-top: 50px;
-  }
-  
+    background-image: "url('https://tneacounselling.in/wp-content/uploads/2022/08/Saveetha-Engineering-College-Kancheepuram.jpg')";
+    height: "100vh";
+    background-size: "cover";
+    background-position: "center";
+    background-repeat: "no-repeat";
+    
+}
   .home h2 {
     font-size: 2em;
   }
@@ -10,4 +15,6 @@
   .home p {
     font-size: 1.2em;
   }
+
+
   

@@ -14,6 +14,7 @@ function Events() {
       <ul>
         {events.map(event => (
           <li key={event.id}>
+            <img src="https://img.freepik.com/free-vector/college-party-poster_1370-107.jpg" alt="event" />
             <h3>{event.name}</h3>
             <p>{event.date}</p>
           </li>

@@ -9,7 +9,7 @@ import './App.css';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/Website-for-SEC-using-React/'>
       <Header />
       <div className="main-content">
         <Routes>

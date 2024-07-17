@@ -11,5 +11,11 @@
     font-size: 1.2em;
   }
 
+  .about ul li {
+    list-style-type: none;
+    align-items: center;
+    font-size: 1.2em;
+  }
+
 
   
